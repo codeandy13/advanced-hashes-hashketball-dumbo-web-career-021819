@@ -85,7 +85,7 @@ def game_hash
         "DeSagna Diop" =>{
           number: 2,
           shoe: 14,
-          points: 24, 
+          points: 24,
           rebounds: 12,
           assits: 12,
           steals: 4,
@@ -95,7 +95,7 @@ def game_hash
         "Ben Gordon" => {
           number: 8,
           shoe: 15,
-          points: 33, 
+          points: 33,
           rebounds: 3,
           assits: 2,
           steals: 1,
@@ -115,5 +115,5 @@ def game_hash
     }
   },
 },      
-  
+
 end
